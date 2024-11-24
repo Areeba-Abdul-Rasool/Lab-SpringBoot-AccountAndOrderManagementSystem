@@ -51,7 +51,7 @@ This repository contains a comprehensive Spring Boot application for managing us
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/Lab-SpringBoot-AccountAndOrderManagementSystem.git
+git@github.com:Areeba-Abdul-Rasool/Lab-SpringBoot-AccountAndOrderManagementSystem.git
 2. Navigate to the project directory and import it into IntelliJ or any Spring Boot-compatible IDE.
 3. Configure the application.properties file with your Oracle database credentials.
 4. Run the application using Maven or the IDE's Spring Boot run configuration: ./mvnw spring-boot:run
